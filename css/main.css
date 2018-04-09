@@ -1,0 +1,14 @@
+h1{
+
+    font:bold 2em helvetica;
+    color: black;
+
+}
+
+
+body{
+
+    background-image: url('../milkyway.JPG');
+    background-size: cover;
+
+}
